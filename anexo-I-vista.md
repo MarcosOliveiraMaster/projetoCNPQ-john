@@ -8,15 +8,15 @@ subtitle: "Chamada CNPq/SETEC/SETAD/MCTI/FNDCT Nº 29/2026 – RHAE IA"
 | Campo | Informação |
 |---|---|
 | **Título do Projeto** | VISTA – Inteligência territorial preditiva baseada em IA para mobilidade ativa, segurança e valorização urbana |
-| **Empresa Executora (nome, sigla e CNPJ)** | [A PREENCHER: razão social] – Master – CNPJ [A PREENCHER] |
-| **Home Page da Empresa Executora** | [A PREENCHER] |
-| **Atividade Econômica (CNAE)** | [A PREENCHER: código e descrição do CNAE principal] |
+| **Empresa Executora (nome, sigla e CNPJ)** | MASTER EDUCACAO LTDA – ME (nome fantasia: MASTER EDUCACAO) – CNPJ 48.055.955/0001-72 |
+| **Home Page da Empresa Executora** | Nada a declarar. |
+| **Atividade Econômica (CNAE)** | 62.01-5-01 – Desenvolvimento de programas de computador sob encomenda |
 | **Nome do(a) Coordenador(a) do Projeto** | Ester Calazans |
-| **Cargo ou Função do(a) Coordenador(a) na Empresa** | Sócia, em função executiva/gerencial – [A PREENCHER: cargo formal, ex.: Sócia-Administradora] |
+| **Cargo ou Função do(a) Coordenador(a) na Empresa** | Sócia e CEO (função executiva) |
 | **Missão(ões) da NIB (item 4.2)** | **Missão 3** – Infraestrutura, saneamento, moradia e mobilidade sustentáveis para a integração produtiva e o bem-estar nas cidades (principal). **Missão 4** – Transformação digital da indústria para ampliar a produtividade (secundária). |
 | **A empresa se enquadra como Negócio de Impacto Socioambiental (item 4.3.1)?** | (X) Sim ( ) Não |
 | **Empresa Liderada por Mulher (item 4.3.2): a proponente é sócia ou proprietária da empresa executora e exerce função executiva ou gerencial?** | (X) Sim ( ) Não |
-| **Porte da empresa (item 6.3.b)** | [A PREENCHER: Microempresa / Empresa de Pequeno Porte (LC 123/2006) ou Startup (LC 182/2021)] |
+| **Porte da empresa (item 6.3.b)** | Microempresa – ME (LC 123/2006) |
 | **Instituições Parceiras** | Nada a declarar. |
 | **Nível de maturidade tecnológica atual (TRL, Anexo II)** | **TRL 2 – Formulação da Tecnologia.** Conceito, arquitetura de dados, mecanismo de IA e modelo de negócio formulados; sem prova de conceito experimental. Meta: TRL 5 ao final do projeto. |
 
@@ -24,12 +24,11 @@ subtitle: "Chamada CNPq/SETEC/SETAD/MCTI/FNDCT Nº 29/2026 – RHAE IA"
 
 ### 1. Perfil organizacional e dados gerais da empresa
 
-A Master é uma empresa de tecnologia sediada em Maceió (AL), fundada em [A PREENCHER: ano], com atuação em [A PREENCHER: ramo de atuação]. A empresa já operou plataforma de tecnologia própria em produção, com automação, *matching* e integração de dados, e acumula experiência na estruturação de propostas técnicas e financeiras para programas de fomento à inovação (Centelha 2022, FAPEAL 2024) e reconhecimento no Prêmio Mulheres Inovadoras 2026.
+A MASTER EDUCACAO LTDA – ME é uma empresa de desenvolvimento de software sediada em Maceió (AL), fundada em 22/09/2022 e com situação cadastral ativa. Sua atividade principal é o desenvolvimento de programas de computador sob encomenda (CNAE 62.01-5-01).
 
-- **Quadro de pessoal:** [A PREENCHER: nº de empregados], dos quais [A PREENCHER] mestres e [A PREENCHER] doutores.
-- **Instalações e infraestrutura:** [A PREENCHER: escritório, infraestrutura de nuvem, servidores].
-- **Produtos e processos:** [A PREENCHER: produtos já desenvolvidos ou comercializados].
-- **Investimentos em P&D e PI:** [A PREENCHER: investimentos anuais em P&D, registros de software/marca, se houver].
+- **Produto próprio:** a empresa desenvolveu e operou em produção o **Orientei – Master Educação App**, plataforma própria com automação, *matching* e integração de dados. Esse produto foi apoiado pelo Programa Centelha (2022) e pela FAPEAL (2024) e reconhecido no Prêmio Mulheres Inovadoras (2026).
+- **Quadro de pessoal:** 23 colaboradores contratados por prestação de serviço, sem empregados em regime CLT. A equipe inclui um mestre em engenharia (John Jairo).
+- **Gestão:** a empresa é dirigida por Ester Calazans (CEO) e tem Marcos Oliveira como CTO, responsável pela arquitetura técnica das plataformas.
 
 A sede em Maceió situa o projeto na região Nordeste, contemplada pela parcela mínima de 30% dos recursos da Chamada (item 7.4), e confere à equipe conhecimento local do território-piloto do projeto.
 
@@ -44,7 +43,7 @@ Respondemos, um a um, aos quatro critérios do item 4.3.1:
 
 ### 3. Empresa Liderada por Mulher
 
-A coordenadora e proponente, **Ester Calazans**, é sócia da Master e exerce função executiva/gerencial na empresa como [A PREENCHER: cargo formal]. Ela responde por [A PREENCHER: principais atribuições, ex.: direção estratégica, gestão financeira, relacionamento institucional e comercial]. No projeto, é a coordenadora formal perante o CNPq, preside o Comitê Gestor e é a responsável pela interlocução institucional e pela guarda das anuências da equipe. Fica autodeclarada, para os fins do item 4.3.2.1, a condição de sócia em função executiva/gerencial.
+A coordenadora e proponente, **Ester Calazans**, é sócia da Master e exerce função executiva na empresa como **CEO**. Como CEO, ela responde pela direção estratégica, pela gestão da empresa e pelo relacionamento institucional e comercial. No projeto, é a coordenadora formal perante o CNPq, preside o Comitê Gestor e é a responsável pela interlocução institucional e pela guarda das anuências da equipe. Fica autodeclarada, para os fins do item 4.3.2.1, a condição de sócia em função executiva/gerencial.
 
 ## Descrição do Projeto
 
@@ -110,7 +109,7 @@ A coordenadora e proponente, **Ester Calazans**, é sócia da Master e exerce fu
 
 ### 1. Técnica
 
-O projeto parte de tecnologias consolidadas e abertas (Python, PostGIS, H3, PyTorch Geometric, imagens Sentinel-2) e de fontes de dados abertas e de uso comercial permitido. Isso elimina a dependência crítica de um único fornecedor privado. A equipe reúne liderança técnica com experiência em arquitetura de plataformas de dados em produção e um pesquisador mestre dedicado integralmente ao projeto. A empresa aporta infraestrutura de nuvem e uma estação de trabalho com GPU para o treino dos modelos de imagem, como contrapartida. Infraestrutura atual: [A PREENCHER].
+O projeto parte de tecnologias consolidadas e abertas (Python, PostGIS, H3, PyTorch Geometric, imagens Sentinel-2) e de fontes de dados abertas e de uso comercial permitido. Isso elimina a dependência crítica de um único fornecedor privado. A equipe reúne liderança técnica com experiência em arquitetura de plataformas de dados em produção e um pesquisador mestre dedicado integralmente ao projeto. A empresa aporta infraestrutura de nuvem e uma estação de trabalho com GPU para o treino dos modelos de imagem, como contrapartida.
 
 ### 2. Econômica e Mercadológica
 
@@ -139,7 +138,7 @@ O projeto parte de tecnologias consolidadas e abertas (Python, PostGIS, H3, PyTo
 
 ## Pesquisa em Bases de Propriedade Intelectual
 
-A busca foi orientada às bases INPI, Espacenet, Google Patents e Lens.org, com os termos "índice territorial", "urban safety index", "automated valuation model", "active mobility data", "crime prediction geospatial" e "street network graph neural network". [A PREENCHER: data da busca e principais documentos encontrados.]
+O posicionamento abaixo baseia-se em levantamento preliminar do estado da técnica. No mês 1 do projeto será feita e registrada uma busca sistemática nas bases INPI, Espacenet, Google Patents e Lens.org, com os termos "índice territorial", "urban safety index", "automated valuation model", "active mobility data", "crime prediction geospatial" e "street network graph neural network".
 
 O estado da técnica concentra-se em modelos automatizados de avaliação imobiliária (AVM), baseados em preço e transações, e em policiamento preditivo, focado em risco. A inovação proposta está na **inversão do sinal**: a mobilidade ativa agregada é usada como **indicador antecedente** de qualidade e segurança territorial, e o produto é um **índice de oportunidade**, e não um escore de risco. Não foram identificados registros que combinem essas características.
 
@@ -155,9 +154,9 @@ Requer-se a **restrição de acesso** prevista no item 12.12.b.
 
 | Nome | Titulação | Especialidade | Atividades a serem desenvolvidas | Início (mês/ano) | Duração (meses) | Carga horária semanal |
 |---|---|---|---|---|---|---|
-| Ester Calazans | [A PREENCHER] | Gestão e negócios de inovação | Coordenação geral; interlocução com o CNPq; validação de mercado e pilotos; Comitê Gestor | Mês 1 | 30 | 10 h |
-| Marcos Oliveira | [A PREENCHER] | Arquitetura de software e BI | Liderança técnica; arquitetura da plataforma e do pipeline; integração das camadas; camada de entrega | Mês 1 | 30 | 20 h |
-| John Jairo | Mestre – [A PREENCHER: área/instituição/ano] | Engenharia de automação e controle; IA | Pesquisador responsável (bolsa SET): desenho experimental, correção de viés, modelos em grafo, métrica de ganho informativo, publicações e PI | Mês 1 | 30 | 40 h |
+| Ester Calazans | [A PREENCHER] | CEO – gestão e negócios de inovação | Coordenação geral; interlocução com o CNPq; validação de mercado e pilotos; Comitê Gestor | Mês 1 | 30 | 10 h |
+| Marcos Oliveira | [A PREENCHER] | CTO – arquitetura de software e BI | Liderança técnica; arquitetura da plataforma e do pipeline; integração das camadas; camada de entrega | Mês 1 | 30 | 20 h |
+| John Jairo | Engenheiro eletricista; Mestre (2024) | Engenharia elétrica, automação e controle; IA | Pesquisador responsável (bolsa SET): desenho experimental, correção de viés, modelos em grafo, métrica de ganho informativo, publicações e PI | Mês 1 | 30 | 40 h |
 
 ## Bolsas Solicitadas
 
@@ -189,16 +188,16 @@ Requer-se a **restrição de acesso** prevista no item 12.12.b.
 
 | Instituição Financiadora | Chamada | Projeto contemplado |
 |---|---|---|
-| [A PREENCHER] | Programa Centelha (2022) | [A PREENCHER: projeto e link] |
-| FAPEAL | [A PREENCHER: chamada] (2024) | [A PREENCHER: projeto e link] |
-| [A PREENCHER] | Prêmio Mulheres Inovadoras (2026) | [A PREENCHER: projeto e link] |
+| FINEP / FAPEAL | Programa Centelha (2022) | Orientei – Master Educação App |
+| FAPEAL | Edital FAPEAL (2024) | Orientei – Master Educação App |
+| FINEP | Prêmio Mulheres Inovadoras (2026) | Orientei – Master Educação App |
 
 ## Contrapartida
 
 | Descrição do item de custeio e/ou capital | Justificativa | Valor (R$) |
 |---|---|---|
-| Custeio – dedicação da liderança técnica (Marcos Oliveira), 20 h/sem × 30 meses | Arquitetura e integração não cobertas por bolsa (8.2.4.a) | 36.000,00 |
-| Custeio – dedicação da coordenação (Ester Calazans), 10 h/sem × 30 meses | Coordenação, gestão e validação de mercado (8.2.4.a) | 15.000,00 |
+| Custeio – remuneração da liderança técnica (Marcos Oliveira, CTO), 20 h/sem × 30 meses | Arquitetura e integração não cobertas por bolsa (8.2.4.a) | 36.000,00 |
+| Custeio – remuneração da coordenação (Ester Calazans, CEO), 10 h/sem × 30 meses | Coordenação, gestão e validação de mercado (8.2.4.a) | 15.000,00 |
 | Custeio – infraestrutura de nuvem (processamento e armazenamento), 30 meses | Treino e operação dos modelos e do pipeline | 18.000,00 |
 | Capital – estação de trabalho com GPU | Treino dos modelos de visão computacional (Fase 2) | 14.000,00 |
 | Custeio – passagens e diárias para a Reunião de Acompanhamento | Previsto no item 8.2.6 | 6.000,00 |
