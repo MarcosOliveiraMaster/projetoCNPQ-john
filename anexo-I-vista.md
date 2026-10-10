@@ -27,7 +27,7 @@ subtitle: "Chamada CNPq/SETEC/SETAD/MCTI/FNDCT Nº 29/2026 – RHAE IA"
 A MASTER EDUCACAO LTDA – ME é uma empresa de desenvolvimento de software sediada em Maceió (AL), fundada em 22/09/2022 e com situação cadastral ativa. Sua atividade principal é o desenvolvimento de programas de computador sob encomenda (CNAE 62.01-5-01).
 
 - **Produto próprio:** a empresa desenvolveu e operou em produção o **Orientei – Master Educação App**, plataforma própria com automação, *matching* e integração de dados. Esse produto foi apoiado pelo Programa Centelha (2022) e pela FAPEAL (2024) e reconhecido no Prêmio Mulheres Inovadoras (2026).
-- **Quadro de pessoal:** 23 colaboradores contratados por prestação de serviço, sem empregados em regime CLT. A equipe inclui um mestre em engenharia (John Jairo).
+- **Quadro de pessoal:** 23 colaboradores contratados por prestação de serviço, sem empregados em regime CLT.
 - **Gestão:** a empresa é dirigida por Ester Calazans (CEO) e tem Marcos Oliveira como CTO, responsável pela arquitetura técnica das plataformas.
 
 A sede em Maceió situa o projeto na região Nordeste, contemplada pela parcela mínima de 30% dos recursos da Chamada (item 7.4), e confere à equipe conhecimento local do território-piloto do projeto.
@@ -109,7 +109,7 @@ A coordenadora e proponente, **Ester Calazans**, é sócia da Master e exerce fu
 
 ### 1. Técnica
 
-O projeto parte de tecnologias consolidadas e abertas (Python, PostGIS, H3, PyTorch Geometric, imagens Sentinel-2) e de fontes de dados abertas e de uso comercial permitido. Isso elimina a dependência crítica de um único fornecedor privado. A equipe reúne liderança técnica com experiência em arquitetura de plataformas de dados em produção e um pesquisador mestre dedicado integralmente ao projeto. A empresa aporta infraestrutura de nuvem e uma estação de trabalho com GPU para o treino dos modelos de imagem, como contrapartida.
+O projeto parte de tecnologias consolidadas e abertas (Python, PostGIS, H3, PyTorch Geometric, imagens Sentinel-2) e de fontes de dados abertas e de uso comercial permitido. Isso elimina a dependência crítica de um único fornecedor privado. A equipe reúne liderança técnica com experiência em arquitetura de plataformas de dados em produção e um(a) pesquisador(a) mestre ou doutor(a) dedicado(a) integralmente ao projeto por meio da bolsa SET. A empresa aporta infraestrutura de nuvem e uma estação de trabalho com GPU para o treino dos modelos de imagem, como contrapartida.
 
 ### 2. Econômica e Mercadológica
 
@@ -154,9 +154,8 @@ Requer-se a **restrição de acesso** prevista no item 12.12.b.
 
 | Nome | Titulação | Especialidade | Atividades a serem desenvolvidas | Início (mês/ano) | Duração (meses) | Carga horária semanal |
 |---|---|---|---|---|---|---|
-| Ester Calazans | [A PREENCHER] | CEO – gestão e negócios de inovação | Coordenação geral; interlocução com o CNPq; validação de mercado e pilotos; Comitê Gestor | Mês 1 | 30 | 10 h |
-| Marcos Oliveira | [A PREENCHER] | CTO – arquitetura de software e BI | Liderança técnica; arquitetura da plataforma e do pipeline; integração das camadas; camada de entrega | Mês 1 | 30 | 20 h |
-| John Jairo | Engenheiro eletricista; Mestre (2024) | Engenharia elétrica, automação e controle; IA | Pesquisador responsável (bolsa SET): desenho experimental, correção de viés, modelos em grafo, métrica de ganho informativo, publicações e PI | Mês 1 | 30 | 40 h |
+| Ester Calazans | Conforme Currículo Lattes | CEO – gestão e negócios de inovação | Coordenação geral; interlocução com o CNPq; validação de mercado e pilotos; Comitê Gestor | Mês 1 | 30 | 10 h |
+| Marcos Oliveira | Conforme Currículo Lattes | CTO – arquitetura de software e BI | Liderança técnica; arquitetura da plataforma e do pipeline; integração das camadas; camada de entrega | Mês 1 | 30 | 20 h |
 
 ## Bolsas Solicitadas
 
@@ -170,7 +169,7 @@ Requer-se a **restrição de acesso** prevista no item 12.12.b.
 
 ## Governança
 
-- **Comitê Gestor:** formado pela coordenadora (Ester Calazans), pela liderança técnica (Marcos Oliveira) e pelo pesquisador SET. Reúne-se mensalmente, com ata, e delibera sobre escopo, riscos e replanejamento.
+- **Comitê Gestor:** formado pela coordenadora (Ester Calazans), pela liderança técnica (Marcos Oliveira) e pelo(a) bolsista SET, a ser indicado(a) após a assinatura do Termo de Outorga. Reúne-se mensalmente, com ata, e delibera sobre escopo, riscos e replanejamento.
 - **Rotina de acompanhamento:**
   - ciclos quinzenais de entregas da equipe técnica;
   - revisão trimestral das metas contra os indicadores do item 4;
